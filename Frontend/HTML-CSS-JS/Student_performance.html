@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="../images/favicon.png">
+    <title>Student Performance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+        .slider-container, .dropdown-container {
+            margin-bottom: 20px;
+        }
+        .slider-container label, .dropdown-container label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+        }
+        .slider-container input[type="range"] {
+            width: 100%;
+        }
+        .slider-value {
+            text-align: center;
+            margin-top: 5px;
+            font-size: 1.2em;
+        }
+        .dropdown-container select {
+            width: 100%;
+            padding: 10px;
+            font-size: 1em;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1.2em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Student Performance</h1>
+        
+        <!-- Slider for Feature 1 -->
+        <div class="slider-container">
+            <label for="feature1">Percentage of classes attended</label>
+            <input type="range" id="feature1" min="0" max="100" value="50" oninput="updateValue(1)">
+            <div class="slider-value" id="value1">50</div>
+        </div>
+        
+        <!-- Slider for Feature 2 -->
+        <div class="slider-container">
+            <label for="feature2">Previous Scores(Average)</label>
+            <input type="range" id="feature2" min="0" max="100" value="50" oninput="updateValue(2)">
+            <div class="slider-value" id="value2">50</div>
+        </div>
+        
+        <!-- Slider for Feature 3 -->
+        <div class="slider-container">
+            <label for="feature3">Tutoring Sessions(Month)</label>
+            <input type="range" id="feature3" min="0" max="10" value="5" oninput="updateValue(3)">
+            <div class="slider-value" id="value3">5</div>
+        </div>
+
+        <!-- Slider for Feature 4 -->
+        <div class="slider-container">
+            <label for="feature4">Hours Studied(Week)</label>
+            <input type="range" id="feature4" min="0" max="50" value="25" oninput="updateValue(4)">
+            <div class="slider-value" id="value4">25</div>
+        </div>
+        
+        <!-- Categorical Feature (Dropdown) -->
+        <div class="dropdown-container">
+            <label for="categoricalFeature1">Parental Involvement</label>
+            <select id="categoricalFeature1">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature2">Access to resources</label>
+            <select id="categoricalFeature2">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature3">Motivation level</label>
+            <select id="categoricalFeature3">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature4">Family income</label>
+            <select id="categoricalFeature4">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature5">Teacher quality</label>
+            <select id="categoricalFeature5">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature6">Parental education level</label>
+            <select id="categoricalFeature6">
+                <option value="High_School">High School</option>
+                <option value="College">College</option>
+                <option value="Postgraduate">Postgraduate</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature7">Distance from home</label>
+            <select id="categoricalFeature7">
+                <option value="Near">Near</option>
+                <option value="Moderate">Moderate</option>
+                <option value="Far">Far</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature8">Peer influence</label>
+            <select id="categoricalFeature8">
+                <option value="Negative">Negative</option>
+                <option value="Neutral">Neutral</option>
+                <option value="Positive">Positive</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature9">Physical Activity</label>
+            <select id="categoricalFeature9">
+                <option value="Sedentary">Sedentary</option>
+                <option value="Light">Light</option>
+                <option value="Moderate">Moderate</option>
+                <option value="Active">Active</option>
+                <option value="Very">Very Active</option>
+                <option value="Highly">Highly Active</option>
+                <option value="Athlete">Athlete</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature10">Extracurricular activities</label>
+            <select id="categoricalFeature10">
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="categoricalFeature11">Internet Access</label>
+            <select id="categoricalFeature11">
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select>
+        </div>
+        
+        <div class="dropdown-container">
+            <label for="categoricalFeature12">Learning Disabilities</label>
+            <select id="categoricalFeature12">
+                <option value="Yes">Yes</option>
+                <option value="No">No</option>
+            </select>
+        </div>
+        
+        <!-- Submit Button -->
+        <button onclick="calculateResult()">Submit</button>
+        
+        <!-- Result Display -->
+        <div class="result" id="result" style="display: none;"></div>
+    </div>
+
+    <script>
+        // Function to update the displayed value of the slider
+        function updateValue(featureNumber) {
+            const slider = document.getElementById(`feature${featureNumber}`);
+            const valueDisplay = document.getElementById(`value${featureNumber}`);
+            valueDisplay.textContent = slider.value; // Update value display
+        }
+
+        // Function to calculate the result based on sliders and categorical feature
+        function calculateResult() {
+            // Get the values of the sliders
+            const value1 = Number(document.getElementById('feature1').value)/40;
+            const value2 = Number(document.getElementById('feature2').value)/50;
+            const value3 = Number(document.getElementById('feature3').value);
+            const value4 = Number(document.getElementById('feature4').value)/5.99;
+
+            // Get the value of the categorical feature
+            const categoricalValue1 = document.getElementById('categoricalFeature1').value;
+            const categoricalValue2 = document.getElementById('categoricalFeature2').value;
+            const categoricalValue3 = document.getElementById('categoricalFeature3').value;
+            const categoricalValue4 = document.getElementById('categoricalFeature4').value;
+            const categoricalValue5 = document.getElementById('categoricalFeature5').value;
+            const categoricalValue6 = document.getElementById('categoricalFeature6').value;
+            const categoricalValue7 = document.getElementById('categoricalFeature7').value;
+            const categoricalValue8 = document.getElementById('categoricalFeature8').value;
+            const categoricalValue9 = document.getElementById('categoricalFeature9').value;
+            const categoricalValue10 = document.getElementById('categoricalFeature10').value;
+            const categoricalValue11 = document.getElementById('categoricalFeature11').value;
+            const categoricalValue12 = document.getElementById('categoricalFeature12').value;
+
+            let value5 = 0;
+            let value6 = 0;
+            let value7 = 0;
+            let value8 = 0;
+            let value9 = 0;
+            let value10 = 0;
+            let value11 = 0;
+            let value12 = 0;
+            let value13 = 0;
+            let value14 = 0;
+            let value15 = 0;
+            let value16 = 0;
+
+            if (categoricalValue1 === "Low") {
+                value5 = 0;
+            } else if (categoricalValue1 === "Medium") {
+                 value5 = 1;
+            }else {
+                value5 = 2;
+            }
+
+            if (categoricalValue2 === "Low") {
+                value6 = 0;
+            } else if (categoricalValue2 === "Medium") {
+                 value6 = 1;
+            }else {
+                value6 = 2;
+            }
+
+            if (categoricalValue3 === "Low") {
+                value7 = 0;
+            } else if (categoricalValue1 === "Medium") {
+                 value7 = 1;
+            }else {
+                value7 = 2;
+            }
+
+            if (categoricalValue4 === "Low") {
+                value8 = 0;
+            } else if (categoricalValue4 === "Medium") {
+                 value8 = 1;
+            }else {
+                value8 = 2;
+            }
+
+            if (categoricalValue5 === "Low") {
+                value9 = 0;
+            } else if (categoricalValue5 === "Medium") {
+                 value9 = 1;
+            }else {
+                value9 = 2;
+            }
+
+            if (categoricalValue6 === "Postgraduate") {
+                value10 = 2;
+            } else if (categoricalValue6 === "College") {
+                 value10 = 1;
+            }else {
+                value10 = 0;
+            }
+
+            if (categoricalValue7 === "Near") {
+                value11 = 0;
+            } else if (categoricalValue7 === "Moderate") {
+                 value11 = 1;
+            }else {
+                value11 = 2;
+            }
+
+            if (categoricalValue8 === "Negative") {
+                value12 = 0;
+                value18 = 0;
+                value19 = 1;
+            } else if (categoricalValue8 === "Neutral") {
+                 value12 = 0;
+                    value18 = 1;
+                    value19 = 0;
+            }else {
+                value12 = 1;
+                    value18 = 0;
+                    value19 = 0;
+            }
+
+            if (categoricalValue9 === "Sedentary") {
+                value13 = 0;
+            } else if (categoricalValue9 === "Light") {
+                 value13 = 1;
+            }else if(categoricalValue9 === 'Moderate'){
+                value13 = 2;
+            }else if(categoricalValue9 === 'Active'){
+                value13 = 3;
+            }else if(categoricalValue9 === 'Very'){
+                value13 = 4;
+            }else if(categoricalValue9 === 'Highly'){
+                value13 = 5;
+            }else {
+                value13 = 6;
+            }
+
+            if (categoricalValue10 === "Yes") {
+                value14 = 0;
+                value17 =1;
+            } else {
+                value14 = 1;
+                value17 =0;
+            }
+
+            if (categoricalValue11 === "Yes") {
+                value15 = 0;
+            } else {
+                value15 = 1;
+            }
+
+            if (categoricalValue12 === "Yes") {
+                value16 = 0;
+            } else {
+                value16 = 1;
+            }
+
+
+
+
+            // Example calculation: Combine numerical values and append categorical choice
+            const result =57.07844535052128 + 7.945534*value1+2.432289*value2+4.838539e-01*value3+1.769307*value4+1.006635*value5+1.021990*value6+5.513339e-01*value7+5.666131e-01*value8+5.520568e-01*value9+4.946623e-01*value10-4.593309e-01*value11+ 1.992808e-01*value13 +8.672434e-01*value16-8.974091e-01*value15+1.337722e-16*value17-5.626076e-01*value14-8.970209e-01*value19-3.381165e-01*value18+ 1.176801e-01*value12; // Average of numerical features
+            
+            if(result<0){
+                result = 0;
+            }
+            if(result>100){
+                result = 100;
+            }
+
+            // Display the result
+            const resultDisplay = document.getElementById('result');
+            resultDisplay.style.display = 'block';
+            resultDisplay.textContent = `The calculated result is: ${result.toFixed(2)}`;
+        }
+    </script>
+</body>
+</html>
