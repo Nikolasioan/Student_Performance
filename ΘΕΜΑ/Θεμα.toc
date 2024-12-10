@@ -1,14 +1,13 @@
 \contentsline {section}{\numberline {1}Εισαγωγή}{4}{}%
-\contentsline {section}{\numberline {2}Introduction}{5}{}%
-\contentsline {section}{\numberline {3}Ανάλυση της διαδικασίας επιλογής μοντέλου}{6}{}%
-\contentsline {subsection}{\numberline {3.1}Ανάλυση του προβλήματος}{6}{}%
-\contentsline {subsection}{\numberline {3.2}Επεξεργασία των δεδομένων}{7}{}%
-\contentsline {subsection}{\numberline {3.3}Επιλογή χαρακτηριστικών}{14}{}%
-\contentsline {subsection}{\numberline {3.4}Επιλογή υπερπαραμέτρων}{16}{}%
-\contentsline {subsection}{\numberline {3.5}Επιλογή μοντέλου}{17}{}%
-\contentsline {section}{\numberline {4}Το μοντέλο παλινδρόμισης Lasso}{20}{}%
-\contentsline {subsection}{\numberline {4.1}Έγκριση ειδικού πλαισίου χωροταξικού σχεδιασμού}{20}{}%
-\contentsline {subsection}{\numberline {4.2}Καθορισμός περιοχών αιολικής προτεραιότητας}{20}{}%
-\contentsline {subsection}{\numberline {4.3}Παράμετροι που καθορίζουν τις αποστάσεις}{20}{}%
-\contentsline {section}{\numberline {5}Σύγκριση με έρευνες}{21}{}%
-\contentsline {section}{\numberline {6}Βιβλιογραφία}{22}{}%
+\contentsline {section}{\numberline {2}Ανάλυση της διαδικασίας επιλογής μοντέλου}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Ανάλυση του προβλήματος}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Επεξεργασία των δεδομένων}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Επιλογή χαρακτηριστικών}{11}{}%
+\contentsline {subsection}{\numberline {2.4}Επιλογή υπερπαραμέτρων}{14}{}%
+\contentsline {subsection}{\numberline {2.5}Επιλογή μοντέλου}{14}{}%
+\contentsline {section}{\numberline {3}Το μοντέλο παλινδρόμισης Lasso}{17}{}%
+\contentsline {subsection}{\numberline {3.1}Έγκριση ειδικού πλαισίου χωροταξικού σχεδιασμού}{17}{}%
+\contentsline {subsection}{\numberline {3.2}Καθορισμός περιοχών αιολικής προτεραιότητας}{17}{}%
+\contentsline {subsection}{\numberline {3.3}Παράμετροι που καθορίζουν τις αποστάσεις}{17}{}%
+\contentsline {section}{\numberline {4}Σύγκριση με έρευνες}{18}{}%
+\contentsline {section}{\numberline {5}Βιβλιογραφία}{19}{}%
