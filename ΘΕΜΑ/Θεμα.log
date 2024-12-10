@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  10 DEC 2024 17:55
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  10 DEC 2024 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -433,15 +433,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
  []
 
 
-Overfull \hbox (21.529pt too wide) in paragraph at lines 51--53
-\TU/TimesNewRoman(0)/m/n/17.28 Θα θέλαμε να ευχαριστήσουμε τον κύριο Πέτρο Στεφ
-ανέα για το ενδιαφέρον
- []
-
-
-Overfull \hbox (21.77863pt too wide) in paragraph at lines 51--53
-\TU/TimesNewRoman(0)/m/n/17.28 της εν λόγω εργασίας. Επίσης, θα θέλαμε να ευχαρ
-ιστήσουμε τις οικογένειες
+Overfull \hbox (12.37012pt too wide) in paragraph at lines 51--53
+\TU/TimesNewRoman(0)/m/n/12 μας έδειξε κατά τη διάρκεια πραγματοποίησης της εν 
+λόγω εργασίας. Επίσης, θα θέλαμε να ευχαριστήσουμε
  []
 
 [2] (Θεμα.toc)
@@ -459,258 +453,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--67
  []
 
 [5]
-Overfull \hbox (9.21306pt too wide) in paragraph at lines 71--72
-\TU/TimesNewRoman(0)/m/n/17.28 πρόβλημα παλινδρόμισης αφού ο τελικός βαθμός δεν
- αποτελεί κατηγορική
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
-[]|\TU/TimesNewRoman(0)/m/n/17.28 Low/Medium/
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
-[]|\TU/TimesNewRoman(0)/m/n/17.28 Low/Medium/
- []
-
-
-Overfull \hbox (0.50217pt too wide) in paragraph at lines 92--92
-|[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-[]|\TU/TimesNewRoman(0)/m/n/17.28 Low/Medium/
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
-[]|\TU/TimesNewRoman(0)/m/n/17.28 Low/Medium/
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-[]|\TU/TimesNewRoman(0)/m/n/17.28 Low/Medium/
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
-[]|\TU/TimesNewRoman(0)/m/n/17.28 Near/Moderate/
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]|\TU/TimesNewRoman(0)/m/n/17.28 Extracurricular
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]|\TU/TimesNewRoman(0)/m/n/17.28 Εξωσχολικές
- []
-
 [6]
-Overfull \hbox (27.08223pt too wide) in paragraph at lines 125--126
-[]\TU/TimesNewRoman(0)/m/n/17.28 Η μεταβλητή Exam Score αποτελεί την εξαρτημένη
- μεταβλητή(μεταβλητή
+Overfull \hbox (4.51677pt too wide) in paragraph at lines 131--132
+[]\TU/TimesNewRoman(0)/m/n/12 Η μεταβλητή Physical Activity εχει μια ιδιαιτερότ
+ητα. Παρόλο που περιλαμβάνει αριθμητικές τιμές(0-
  []
 
 
-Overfull \hbox (44.29619pt too wide) in paragraph at lines 129--130
-\TU/TimesNewRoman(0)/m/n/17.28 Ρίχνωντας μια ματιά στα δεδομένα παρατηρήσαμε πω
-ς υπάρχουν παρατηρήσεις
+Overfull \hbox (11.7199pt too wide) in paragraph at lines 133--135
+\TU/TimesNewRoman(0)/m/n/12 είναι απαραίτητο να εφαρμόζουμε κάποια μορφή κλιμάκ
+ωσης στα δεδομένα μας. Η κλιμάκωση εξασφαλίζει
  []
 
 
-Overfull \hbox (44.4509pt too wide) in paragraph at lines 129--130
-\TU/TimesNewRoman(0)/m/n/17.28 να προβλέψουμε τις τιμές των παρατηρήσεων με κάπ
-οια μέθοδο (Παλινδρόμιση
+Overfull \hbox (25.1429pt too wide) in paragraph at lines 133--135
+\TU/TimesNewRoman(0)/m/n/12 ότι τα χαρακτηριστικά με μεγάλο εύρος τιμών δεν θα 
+κυριαρχούν έναντι εκείνων με μικρό εύρος, αποτρέποντας
  []
 
 
-Overfull \hbox (22.82838pt too wide) in paragraph at lines 129--130
-\TU/TimesNewRoman(0)/m/n/17.28 η τρίτη να αντικαταστήσουμε τις ελλειπείς τιμές 
-με κάποιο λογικό τρόπο(π.χ.
+Overfull \hbox (1.4023pt too wide) in paragraph at lines 136--138
+\TU/TimesNewRoman(0)/m/n/12 Οι μέθοδοι κλιμάκωσης, όπως StandardScaler, MinMaxS
+caler και RobustScaler, λειτουργούν ανεξάρτητα
  []
 
 
-Overfull \hbox (11.23244pt too wide) in paragraph at lines 129--130
-\TU/TimesNewRoman(0)/m/n/17.28 ελλειπείς τιμές μιας και ο αριθμός των παρατηρήσ
-εων είναι ικανοποιητικός
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
  []
 
+File: ./images/icon2.jpg Graphic file (type bmp)
+<./images/icon2.jpg>
 [7]
-Overfull \hbox (14.88138pt too wide) in paragraph at lines 131--132
-\TU/TimesNewRoman(0)/m/n/17.28 περιλαμβάνει αριθμητικές τιμές(0-6), αυτές οι τι
-μές αποτελούν κατηγορίες.
+Overfull \hbox (7.5132pt too wide) in paragraph at lines 146--149
+\TU/TimesNewRoman(0)/m/n/12 Studied και Sleep Hours αφού όπως μπορούμε να δούμε
+ ακολουθούν κατά προσέγγιση κανονική κατανομή,
  []
 
 
-Overfull \hbox (39.5543pt too wide) in paragraph at lines 131--132
-\TU/TimesNewRoman(0)/m/n/17.28 Εύκολα μπορούμε να δούμε πως το dataset μας έχει
- 14 κατηγορικές μεταβλητές
- []
+Underfull \hbox (badness 10000) in paragraph at lines 146--149
 
-
-Overfull \hbox (20.5165pt too wide) in paragraph at lines 133--135
-[]\TU/TimesNewRoman(0)/m/n/17.28 Παρατηρώντας τα δεδομένα μπορούμε εύκολα να δο
-ύμε πως οι ποσοτικές
- []
-
-
-Overfull \hbox (9.48117pt too wide) in paragraph at lines 133--135
-\TU/TimesNewRoman(0)/m/n/17.28 μεταβλητές κυμάινονται σε διαφορετικές κλίμακες.
- Όταν χρησιμοποιούμε
- []
-
-
-Overfull \hbox (1.22389pt too wide) in paragraph at lines 133--135
-\TU/TimesNewRoman(0)/m/n/17.28 sion κ.λπ.), είναι απαραίτητο να εφαρμόζουμε κάπ
-οια μορφή κλιμάκωσης
- []
-
-
-Overfull \hbox (21.364pt too wide) in paragraph at lines 133--135
-\TU/TimesNewRoman(0)/m/n/17.28 αποτρέποντας έτσι την εισαγωγή σφαλμάτων στο μον
-τέλο. Ιδανικά,θέλουμε
- []
-
-
-Overfull \hbox (9.20842pt too wide) in paragraph at lines 133--135
-\TU/TimesNewRoman(0)/m/n/17.28 δομή του συνόλου δεδομένων. Για χαρακτηριστικά τ
-α οποία προσεγγίζουν
- []
-
-
-Overfull \hbox (31.19951pt too wide) in paragraph at lines 133--135
-\TU/TimesNewRoman(0)/m/n/17.28 την κανονική κατανομή χρησιμοποιούμε Standard Sc
-aler, για χαρακτηριστικά
- []
-
-
-Overfull \hbox (3.56557pt too wide) in paragraph at lines 133--135
-\TU/TimesNewRoman(0)/m/n/17.28 τα οποία περιέχουν ακραίες τιμές(outliers) χρησι
-μοποιούμε Robust Scaler
- []
-
-
-Overfull \hbox (5.70306pt too wide) in paragraph at lines 133--135
-\TU/TimesNewRoman(0)/m/n/17.28 και για χαρακτηριστικά τα οποία προσεγγίζουν την
- ομοιόμορφη κατανομή
  []
 
 [8]
-File: ./images/icon2.jpg Graphic file (type bmp)
-<./images/icon2.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
-Overfull \hbox (15.54962pt too wide) in paragraph at lines 145--147
-[]\TU/TimesNewRoman(0)/m/n/17.28 Εύκολα μπορούμε να παρατηρήσουμε πως εφαρμόζου
-με Standard Scaler
- []
-
-
-Overfull \hbox (1.76558pt too wide) in paragraph at lines 145--147
-\TU/TimesNewRoman(0)/m/n/17.28 στα χαρακτηριστικά Hours Studied και Sleep Hours
- αφού όπως μπορούμε
- []
-
-
-Overfull \hbox (41.07306pt too wide) in paragraph at lines 145--147
-\TU/TimesNewRoman(0)/m/n/17.28 Scaler στα χαρακτηριστικά Attendance και Previou
-s Scores αφού προσεγγίζουν
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--147
-
- []
-
-[9] [10]
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
-
- []
-
-
-Overfull \hbox (39.04243pt too wide) in paragraph at lines 188--189
-\TU/TimesNewRoman(0)/m/n/17.28 Γνωρίζουμε πως τα μοντέλα μηχανικής μάθησης δεν 
-μπορούν να διαχειριστούν
- []
-
-
-Overfull \hbox (28.98141pt too wide) in paragraph at lines 188--189
-\TU/TimesNewRoman(0)/m/n/17.28 μη αριθμητικά δεδομένα. Επομένως, μέσω των encod
-ers θα τα μετατρέψουμε
- []
-
-
-Overfull \hbox (30.70901pt too wide) in paragraph at lines 188--189
-\TU/TimesNewRoman(0)/m/n/17.28 με κατάλληλο τρόπο σε αριθμητικά χωρίς όμως να α
-λλάζουμε την κατηγορική
- []
-
-
-Overfull \hbox (28.25183pt too wide) in paragraph at lines 188--189
-\TU/TimesNewRoman(0)/m/n/17.28 τους ιδιότητα. Θα χρησιμοποιήσουμε Ordinal encod
-er για τα χαρακτηριστικά
- []
-
-
-Overfull \hbox (25.90079pt too wide) in paragraph at lines 188--189
-\TU/TimesNewRoman(0)/m/n/17.28 τα οποία περιέχουν κατηγορίες, οι οποίες δεν έχο
-υν κάποια φυσική σειρά(π.χ.
- []
-
-
-Overfull \hbox (7.07552pt too wide) in paragraph at lines 188--189
-\TU/TimesNewRoman(0)/m/n/17.28 volvement”,”Access to Resources”,”Motivation Lev
-el”,”Family Income”,
- []
-
-
-Overfull \hbox (34.0137pt too wide) in paragraph at lines 188--189
-\TU/TimesNewRoman(0)/m/n/17.28 και ”Physical Activity” κωδικοποιούνται με ordin
-al encoding ενώ τα υπόλοιπα
- []
-
-
-Overfull \hbox (39.85382pt too wide) in paragraph at lines 192--193
-[]\TU/TimesNewRoman(0)/m/n/17.28 Η μέθοδος onehot encoding διαγράφει την κατηγο
-ρική στήλη και δημιουργεί
- []
-
-
-Overfull \hbox (30.74695pt too wide) in paragraph at lines 195--196
-\TU/TimesNewRoman(0)/m/n/17.28 Η επιλογή των χαρακτηριστικών που θα χρησιμοποιή
-σουμε για την πρόβλεψη
- []
-
-
-Overfull \hbox (51.13622pt too wide) in paragraph at lines 195--196
-\TU/TimesNewRoman(0)/m/n/17.28 όσο το δυνατό λιγότερα μη σημαντικά χαρακτηριστι
-κά έτσι ώστε να αποφύγουμε
- []
-
-
-Overfull \hbox (44.839pt too wide) in paragraph at lines 195--196
-\TU/TimesNewRoman(0)/m/n/17.28 δεδομένα εκπαίδευσης αλλά να αδυνατεί να γενικεύ
-σει σε νέα δεδομένα.Αρχικά
- []
-
-
-Overfull \hbox (36.06122pt too wide) in paragraph at lines 195--196
-\TU/TimesNewRoman(0)/m/n/17.28 θα ορίσουμε 8 στο σύνολο μοντέλα παλινδρόμισης γ
-ια τα οποία θα εξετάσουμε
- []
-
-
-Overfull \hbox (30.01433pt too wide) in paragraph at lines 195--196
-\TU/TimesNewRoman(0)/m/n/17.28 την απόδοση τους μέσω μιας μετρικής για κάθε συν
-δυασμό χαρακτηριστικών.
  []
 
 
@@ -718,224 +509,119 @@ Underfull \hbox (badness 10000) in paragraph at lines 195--196
 
  []
 
-[11]
+
+Overfull \hbox (13.16295pt too wide) in paragraph at lines 197--198
+\TU/TimesNewRoman(0)/m/n/12 φυσική σειρά(π.χ. ”Yes”,”No”). Επομένως τα κατηγορι
+κά χαρακτηριστικά ”Parental Involvement”,”Access
+ []
+
+
+Overfull \hbox (5.02065pt too wide) in paragraph at lines 197--198
+\TU/TimesNewRoman(0)/m/n/12 to Resources”,”Motivation Level”,”Family Income”, ”
+Teacher Quality”,”Parental Education Level”, ”Dis-
+ []
+
+
+Overfull \hbox (18.61671pt too wide) in paragraph at lines 197--198
+\TU/TimesNewRoman(0)/m/n/12 tance from Home” και ”Physical Activity” κωδικοποιο
+ύνται με ordinal encoding ενώ τα υπόλοιπα κατηγορικά
+ []
+
+
+Overfull \hbox (20.38039pt too wide) in paragraph at lines 204--205
+\TU/TimesNewRoman(0)/m/n/12 προσπαθούμε να επιλέξουμε όσο το δυνατό λιγότερα μη
+ σημαντικά χαρακτηριστικά έτσι ώστε να αποφύγουμε
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 204--205
 
  []
 
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
 
-Overfull \hbox (29.67401pt too wide) in paragraph at lines 207--208
-[]\TU/TimesNewRoman(0)/m/n/17.28 Για την πραγματοποίηση της παραπάνω διαδικασία
-ς θα χρησιμοποιήσουμε
  []
 
 
-Overfull \hbox (2.20435pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 με ισχυρή συσχέτιση την μια απο τις δύο μεταβλητ
-ές αλλά με την διαφορά
+Overfull \hbox (9.40187pt too wide) in paragraph at lines 216--217
+\TU/TimesNewRoman(0)/m/n/12 συσχέτιση την μια απο τις δύο μεταβλητές αλλά με τη
+ν διαφορά πως δεν θα είχαμε τόσο καλά αποτελέσματα
  []
 
 
-Overfull \hbox (0.29555pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 σύνολο χαρακτηριστικών. Το σύνολο εκπαίδευσης χω
-ρίζεται σε k=cross-
+Overfull \hbox (37.61751pt too wide) in paragraph at lines 216--217
+\TU/TimesNewRoman(0)/m/n/12 επανάληψη, αφαιρείται ένα χαρακτηριστικό από το τρέ
+χον σύνολο και το μοντέλο εκπαιδεύεται χρησιμοποιώντας
  []
 
 
-Overfull \hbox (45.43173pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 validation ίσα μέρη(folds). Σε κάθε επανάληψη, α
-φαιρείται ένα χαρακτηριστικό
+Overfull \hbox (3.8968pt too wide) in paragraph at lines 216--217
+\TU/TimesNewRoman(0)/m/n/12 Για την καλύτερη κατανόηση της μεθόδου, παρουσιάζετ
+αι παρακάτω η γραφική παράσταση του βέλτιστου
  []
 
 
-Overfull \hbox (36.81047pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 (test set), ενώ τα υπόλοιπα k-1 folds χρησιμοποι
-ούνται ως σύνολο εκπαίδευσης
+Overfull \hbox (18.05812pt too wide) in paragraph at lines 216--217
+\TU/TimesNewRoman(0)/m/n/12 γραφική απεικονίζει τη σχέση μεταξύ των χαρακτηριστ
+ικών όπως αυτά επιλέχθηκαν μέσω της συγκεκριμένης
  []
 
-
-Overfull \hbox (16.38727pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 (training set). Η απόδοση για κάθε αφαίρεση χαρα
-κτηριστικού αξιολογείται
- []
-
-
-Overfull \hbox (44.45482pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 χρησιμοποιώντας κάποιο προκαθορισμένο κριτήριο, 
-όπως το μέσο τετραγωνικό
- []
-
-
-Overfull \hbox (20.92947pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 της απόδοσης αφαιρείται οριστικά από το σύνολο. 
-Η διαδικασία συνεχίζεται
- []
-
-
-Overfull \hbox (5.78746pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 ένα απο τα μοντέλα παλινδρόμισης που αναφέραμε π
-αραπάνω εντοπίσαμε
- []
-
-
-Overfull \hbox (35.81299pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 σφάλμα. Για την καλύτερη κατανόηση της μεθόδου, 
-παρουσιάζεται παρακάτω
- []
-
-
-Overfull \hbox (21.48119pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 και βασίζεται στα χαρακτηριστικά που ελαχιστοποι
-ούν το μέσο τετραγωνικό
- []
-
-
-Overfull \hbox (20.45744pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/17.28 χαρακτηριστικών όπως αυτά επιλέχθηκαν μέσω της σ
-υγκεκριμένης μεθόδου
- []
-
-[12]
 File: ./images/icon8.jpg Graphic file (type bmp)
 <./images/icon8.jpg>
-
-Overfull \hbox (11.05919pt too wide) in paragraph at lines 217--218
-\TU/TimesNewRoman(0)/m/n/17.28 quential Forward Selection (SFS). Στη διαδικασία
-, θέσαμε cross-validation
+[10]
+Overfull \hbox (3.4554pt too wide) in paragraph at lines 226--227
+\TU/TimesNewRoman(0)/m/n/12 Για κάθε ένα από τα μοντέλα παλινδρόμησης που ορίσα
+με παραπάνω, πραγματοποιήσαμε βελτιστοποίηση
  []
 
 
-Overfull \hbox (33.13058pt too wide) in paragraph at lines 217--218
-\TU/TimesNewRoman(0)/m/n/17.28 = 10 και επιλέξαμε ως μετρική απόδοσης το μέσο τ
-ετραγωνικό σφάλμα(MSE).
+Overfull \hbox (2.75049pt too wide) in paragraph at lines 226--227
+\TU/TimesNewRoman(0)/m/n/12 υπερπαραμέτρων (hyperparameter tuning) χρησιμοποιών
+τας τη μέθοδο GridSearchCV. Η βελτιστοποίηση
  []
 
 
-Overfull \hbox (9.80318pt too wide) in paragraph at lines 217--218
-\TU/TimesNewRoman(0)/m/n/17.28 Η διαδικασία βελτιστοποίησης πραγματοποιήθηκε σε
- δύο στάδια. Aρχικά,
- []
-
-[13]
-Overfull \hbox (46.81427pt too wide) in paragraph at lines 219--221
-[]\TU/TimesNewRoman(0)/m/n/17.28 Η μέθοδος GridSearchCV λειτουργεί ώς ακολούθως
-. Το σύνολο εκπαίδευσης
+Overfull \hbox (2.01855pt too wide) in paragraph at lines 226--227
+\TU/TimesNewRoman(0)/m/n/12 συμπεριφορά του μοντέλου. Στη συνέχεια, εστιάσαμε σ
+τις παραμέτρους που ανέδειξε η πρώτη διαδικασία
  []
 
 
-Overfull \hbox (18.68837pt too wide) in paragraph at lines 219--221
-\TU/TimesNewRoman(0)/m/n/17.28 συνδυασμό υπερπαραμέτρων που ορίζει ο χρήστης το
- μοντέλο εκπαιδεύεται
- []
-
-
-Overfull \hbox (4.55391pt too wide) in paragraph at lines 219--221
-\TU/TimesNewRoman(0)/m/n/17.28 δοκιμής (test set), ενώ τα υπόλοιπα k-1 folds χρ
-ησιμοποιούνται ως σύνολο
- []
-
-
-Overfull \hbox (11.59755pt too wide) in paragraph at lines 219--221
-\TU/TimesNewRoman(0)/m/n/17.28 εκπαίδευσης(training set). Η απόδοση κάθε συνδυα
-σμού υπερπαραμέτρων
- []
-
-
-Overfull \hbox (46.76765pt too wide) in paragraph at lines 219--221
-\TU/TimesNewRoman(0)/m/n/17.28 ώς test set. Τέλος, επιλέγεται ο συνδυασμός υπερ
-παραμέτρων που βελτιστοποιεί
- []
-
-
-Overfull \hbox (43.10934pt too wide) in paragraph at lines 222--223
-\TU/TimesNewRoman(0)/m/n/17.28 σφάλματος για κάθε ένα απο τα μοντέλα παλινδρόμι
-σης που βελτιστοποιήσαμε.
+Overfull \hbox (6.86621pt too wide) in paragraph at lines 228--230
+\TU/TimesNewRoman(0)/m/n/12 fold ώς test set. Τέλος, επιλέγεται ο συνδυασμός υπ
+ερπαραμέτρων που βελτιστοποιεί τη μετρική απόδοσης. 
  []
 
 File: ./images/icon9.jpg Graphic file (type bmp)
 <./images/icon9.jpg>
-[14]
-Overfull \hbox (20.53621pt too wide) in paragraph at lines 229--230
-[]\TU/TimesNewRoman(0)/m/n/17.28 Το μοντέλο το οποίο περιγράφει καλύτερα τα δεδ
-ομένα μας και προβλέπει
+[11]
+Overfull \hbox (25.08807pt too wide) in paragraph at lines 238--239
+\TU/TimesNewRoman(0)/m/n/12 πραγματική τιμή. Με βάση την ανάλυση που κάναμε για
+ τις υπερπαραμέτρους θέσαμε ρυθμό κανονικοποίησης
  []
 
 
-Overfull \hbox (1.87247pt too wide) in paragraph at lines 229--230
-\TU/TimesNewRoman(0)/m/n/17.28 σε καλύτερο βαθμό τον βαθμό του μαθητή με βάση τ
-ην μετρική απόδοσης
- []
-
-
-Overfull \hbox (5.2573pt too wide) in paragraph at lines 229--230
-\TU/TimesNewRoman(0)/m/n/17.28 MSE είναι το μοντέλο παλινδρόμισης Lasso με μέσο
- τετραγωνικό σφάλμα
- []
-
-
-Overfull \hbox (11.67493pt too wide) in paragraph at lines 229--230
-\TU/TimesNewRoman(0)/m/n/17.28 ίσο με 4.155, επομένως έχουμε RMSE=$[] \OT1/cmr/
-m/n/17.28 = 2\OML/cmm/m/it/17.28 :\OT1/cmr/m/n/17.28 038$ \TU/TimesNewRoman(0)/
-m/n/17.28 και αυτό σημαίνει
- []
-
-
-Overfull \hbox (15.93214pt too wide) in paragraph at lines 229--230
-\TU/TimesNewRoman(0)/m/n/17.28 ανοχή σύγκλισης(tol) ίση με 0.1.Για να εξετάσουμ
-ε περαιτέρω την απόδοση
- []
-
-
-Overfull \hbox (41.303pt too wide) in paragraph at lines 229--230
-\TU/TimesNewRoman(0)/m/n/17.28 μεταβλητότητας του βαθμού του μαθητή(Exam Score)
-. Τέλος, κατασκευάσαμε
- []
-
-
-Overfull \hbox (4.34186pt too wide) in paragraph at lines 229--230
-\TU/TimesNewRoman(0)/m/n/17.28 τιμές του συνόλου δοκιμής σε σχέση με τις αντίστ
-οιχες πραγματικές τιμές. 
+Overfull \hbox (25.24171pt too wide) in paragraph at lines 238--239
+\TU/TimesNewRoman(0)/m/n/12 0.1.Για να εξετάσουμε περαιτέρω την απόδοση του μον
+τέλου μας υπολογίσαμε τον συντελεστή προσδιορισμού
  []
 
 File: ./images/icon10.jpg Graphic file (type bmp)
 <./images/icon10.jpg>
-[15]
-Overfull \hbox (25.75058pt too wide) in paragraph at lines 237--238
-[]\TU/TimesNewRoman(0)/m/n/17.28 Μπορούμε να παρατηρήσουμε πως το μοντέλο μας μ
-ε βάση την παραπάνω
- []
-
-
-Overfull \hbox (11.44057pt too wide) in paragraph at lines 237--238
-\TU/TimesNewRoman(0)/m/n/17.28 γραφική παράσταση υπολογίζει σε αρκετά ικανοποιη
-τικό βαθμό τον βαθμό
- []
-
-
-Overfull \hbox (8.40309pt too wide) in paragraph at lines 237--238
-\TU/TimesNewRoman(0)/m/n/17.28 δημιουργήσαμε δεν έχει αρκετά δεδομένα για να πρ
-οβλέψει ικανοποιητικά
- []
-
-
-Overfull \hbox (5.38525pt too wide) in paragraph at lines 237--238
-\TU/TimesNewRoman(0)/m/n/17.28 τετραγωνικό σφάλμα σε αντίθεση με το να το έκανε
- γενίκευση(generalize)
- []
-
-[16] [17] [18] [19] (Θεμα.aux)
+[12] [13] [14] [15] [16] (Θεμα.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7022 strings out of 409566
- 163284 string characters out of 5772191
- 1942842 words of memory out of 5000000
- 29101 multiletter control sequences out of 15000+600000
- 561876 words of font info for 70 fonts, out of 8000000 for 9000
+ 7038 strings out of 409566
+ 163618 string characters out of 5772191
+ 1943842 words of memory out of 5000000
+ 29108 multiletter control sequences out of 15000+600000
+ 563035 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  79i,12n,93p,1922b,301s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Θεμα.pdf (19 pages).
+Output written on Θεμα.pdf (16 pages).
