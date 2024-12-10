@@ -251,6 +251,9 @@
             let value14 = 0;
             let value15 = 0;
             let value16 = 0;
+            let value17 = 0;
+            let value18 = 0;
+            let value19 = 0;
 
             if (categoricalValue1 === "Low") {
                 value5 = 0;
@@ -359,15 +362,15 @@
             }
 
 
-
+          
 
             // Example calculation: Combine numerical values and append categorical choice
-            const result =57.07844535052128 + 7.945534*value1+2.432289*value2+4.838539e-01*value3+1.769307*value4+1.006635*value5+1.021990*value6+5.513339e-01*value7+5.666131e-01*value8+5.520568e-01*value9+4.946623e-01*value10-4.593309e-01*value11+ 1.992808e-01*value13 +8.672434e-01*value16-8.974091e-01*value15+1.337722e-16*value17-5.626076e-01*value14-8.970209e-01*value19-3.381165e-01*value18+ 1.176801e-01*value12; // Average of numerical features
+            let result =57.07844535052128 + 7.945534*value1+2.432289*value2+4.838539e-01*value3+1.769307*value4+1.006635*value5+1.021990*value6+5.513339e-01*value7+5.666131e-01*value8+5.520568e-01*value9+4.946623e-01*value10-4.593309e-01*value11+ 1.992808e-01*value13 +8.672434e-01*value16-8.974091e-01*value15+1.337722e-16*value17-5.626076e-01*value14-8.970209e-01*value19-3.381165e-01*value18+ 1.176801e-01*value12; // Average of numerical features
             
             if(result<0){
                 result = 0;
             }
-            if(result>100){
+            else if(result>100){
                 result = 100;
             }
 
