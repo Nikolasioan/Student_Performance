@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  25 DEC 2024 18:00
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  25 DEC 2024 21:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1163,24 +1163,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 389--390
  []
 
 
-Overfull \hbox (12.12518pt too wide) in paragraph at lines 395--397
-\TU/TimesNewRoman(0)/m/n/12 συμβάλλει στον βαθμό του μαθητή. Συγκεκριμένα η μετ
-αβολή κατά μια μονάδα του χαρακτηριστικού
- []
-
-
-Overfull \hbox (25.83807pt too wide) in paragraph at lines 398--400
-\TU/TimesNewRoman(0)/m/n/12 να συμβάλλει στον βαθμό του μαθητή. Συγκεκριμένα η 
+Overfull \hbox (28.49042pt too wide) in paragraph at lines 392--394
+\TU/TimesNewRoman(0)/m/n/12 προσδιορισμό του βαθμού του μαθητή. Συγκεκριμένα η 
 μεταβολή κατά μια μονάδα του χαρακτηριστικού
  []
 
-[17]
-Overfull \hbox (12.12518pt too wide) in paragraph at lines 401--403
-\TU/TimesNewRoman(0)/m/n/12 συμβάλλει στον βαθμό του μαθητή. Συγκεκριμένα η μετ
-αβολή κατά μια μονάδα του χαρακτηριστικού
- []
-
-[18] [19] (Θεμα.aux)
+[17] [18] [19] (Θεμα.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
