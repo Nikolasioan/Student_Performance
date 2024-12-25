@@ -10,4 +10,5 @@
 \contentsline {subsection}{\numberline {3.2}Καθορισμός περιοχών αιολικής προτεραιότητας}{14}{}%
 \contentsline {subsection}{\numberline {3.3}Παράμετροι που καθορίζουν τις αποστάσεις}{14}{}%
 \contentsline {section}{\numberline {4}Σύγκριση με έρευνες}{15}{}%
-\contentsline {section}{\numberline {5}Βιβλιογραφία}{16}{}%
+\contentsline {subsection}{\numberline {4.1}Επεξήγηση των παραμέτρων}{15}{}%
+\contentsline {section}{\numberline {5}Βιβλιογραφία}{19}{}%
