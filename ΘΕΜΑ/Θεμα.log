@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  25 DEC 2024 21:00
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  29 JAN 2025 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,18 +1084,6 @@ Overfull \hbox (25.24171pt too wide) in paragraph at lines 241--242
 File: ./images/icon10.jpg Graphic file (type bmp)
 <./images/icon10.jpg>
 [12] [13] [14]
-Overfull \hbox (5.78273pt too wide) in paragraph at lines 265--269
-\TU/TimesNewRoman(0)/m/n/12 διαθέσιμες στο ευρύκοινόκαιτωναποτελεσμάτωνπουπροέκ
-υψανμέσωτηςδικήςμαςανάλυσης,πρέπει πρώτα
- []
-
-
-Overfull \hbox (12.96632pt too wide) in paragraph at lines 265--269
-\TU/TimesNewRoman(0)/m/n/12 να κάνουμε μια ανάλυση της σχέσης μεταξύ του τελικο
-ύ βαθμού του μαθητή και των διάφορων ανεξάρτητων
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 265--269
 
  []
