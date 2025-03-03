@@ -1,14 +1,19 @@
-\contentsline {section}{\numberline {1}Εισαγωγή}{4}{}%
-\contentsline {section}{\numberline {2}Ανάλυση της διαδικασίας επιλογής μοντέλου}{6}{}%
-\contentsline {subsection}{\numberline {2.1}Ανάλυση του προβλήματος}{6}{}%
-\contentsline {subsection}{\numberline {2.2}Επεξεργασία των δεδομένων}{7}{}%
-\contentsline {subsection}{\numberline {2.3}Επιλογή χαρακτηριστικών}{10}{}%
-\contentsline {subsection}{\numberline {2.4}Επιλογή υπερπαραμέτρων}{11}{}%
-\contentsline {subsection}{\numberline {2.5}Επιλογή μοντέλου}{11}{}%
-\contentsline {section}{\numberline {3}Το μοντέλο παλινδρόμισης Lasso}{14}{}%
-\contentsline {subsection}{\numberline {3.1}Έγκριση ειδικού πλαισίου χωροταξικού σχεδιασμού}{14}{}%
-\contentsline {subsection}{\numberline {3.2}Καθορισμός περιοχών αιολικής προτεραιότητας}{14}{}%
-\contentsline {subsection}{\numberline {3.3}Παράμετροι που καθορίζουν τις αποστάσεις}{14}{}%
-\contentsline {section}{\numberline {4}Σύγκριση με έρευνες}{15}{}%
-\contentsline {subsection}{\numberline {4.1}Επεξήγηση των παραμέτρων}{15}{}%
-\contentsline {section}{\numberline {5}Βιβλιογραφία}{19}{}%
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\numberline {1}Εισαγωγή}{4}{section.1}%
+\contentsline {section}{\numberline {2}Ανάλυση της διαδικασίας επιλογής μοντέλου}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Ανάλυση του προβλήματος}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Επεξεργασία των δεδομένων}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Επιλογή χαρακτηριστικών}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Επιλογή υπερπαραμέτρων}{11}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Επιλογή μοντέλου}{11}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Το μοντέλο παλινδρόμισης Lasso}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Εισαγωγή}{14}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Λειτουργική Περιγραφή}{14}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Μαθηματική Διατύπωση}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}\textlatin {Coordinate Descent}}{14}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}\textlatin {Algorithm}}{15}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Κυρτότητα Συνάρτησης Κόστους}{15}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}\textlatin {Hyperparameters}}{16}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Σύγκριση με έρευνες}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Επεξήγηση των παραμέτρων}{18}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Βιβλιογραφία}{24}{section.5}%
