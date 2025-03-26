@@ -11,10 +11,10 @@
 \contentsline {subsection}{\numberline {3.1}Εισαγωγή}{17}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Λειτουργική Περιγραφή}{17}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Μαθηματική Διατύπωση}{17}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}\textlatin {Coordinate Descent}}{18}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}\textlatin {Algorithm}}{19}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.4}\textlatin {Coordinate Descent}}{17}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}\textlatin {Algorithm}}{18}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}Κυρτότητα Συνάρτησης Κόστους}{19}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}\textlatin {Hyperparameters}}{20}{subsection.3.7}%
-\contentsline {section}{\numberline {4}Σύγκριση με έρευνες}{22}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Επεξήγηση των παραμέτρων}{22}{subsection.4.1}%
-\contentsline {section}{\numberline {5}Βιβλιογραφία}{28}{section.5}%
+\contentsline {subsection}{\numberline {3.7}\textlatin {Hyperparameters}}{19}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Σύγκριση με έρευνες}{21}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Επεξήγηση των παραμέτρων}{21}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Βιβλιογραφία}{27}{section.5}%
