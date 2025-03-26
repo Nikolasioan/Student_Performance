@@ -1,0 +1,20 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\numberline {1}Εισαγωγή}{4}{section.1}%
+\contentsline {section}{\numberline {2}Ανάλυση της διαδικασίας επιλογής μοντέλου}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Ανάλυση του προβλήματος}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Επεξεργασία των δεδομένων}{7}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Επιλογή χαρακτηριστικών}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Συσχέτιση των χαρακτηριστικών}{11}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Επιλογή υπερπαραμέτρων}{14}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Επιλογή μοντέλου}{15}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Το μοντέλο παλινδρόμισης Lasso}{17}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Εισαγωγή}{17}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Λειτουργική Περιγραφή}{17}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Μαθηματική Διατύπωση}{17}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}\textlatin {Coordinate Descent}}{18}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}\textlatin {Algorithm}}{19}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Κυρτότητα Συνάρτησης Κόστους}{19}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}\textlatin {Hyperparameters}}{20}{subsection.3.7}%
+\contentsline {section}{\numberline {4}Σύγκριση με έρευνες}{22}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Επεξήγηση των παραμέτρων}{22}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Βιβλιογραφία}{28}{section.5}%
