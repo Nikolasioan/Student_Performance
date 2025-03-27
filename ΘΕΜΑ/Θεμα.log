@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  27 MAR 2025 16:04
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  28 MAR 2025 01:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1007,97 +1007,108 @@ Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
 Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
-) (Θεμα.aux)
+)
+(C:\Users\35796\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip79
+\enit@outerparindent=\dimen319
+\enit@toks=\toks48
+\enit@inbox=\box82
+\enit@count@id=\count351
+\enitdp@description=\count352
+)
+(Θεμα.aux)
 \openout1 = `Θεμα.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-6.
- (C:\Users\35796\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+9.
+
+(C:\Users\35796\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 36.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 36.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 36.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 36.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 36.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 36.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 36.
-LaTeX Font Info:    Redeclaring math accent \check on input line 36.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 36.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 36.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 36.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 39.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 39.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 39.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 39.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 39.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 39.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 39.
+LaTeX Font Info:    Redeclaring math accent \check on input line 39.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 39.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 39.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 39.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 39.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 39.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 36.
+(Font)              `operators' in the math version `normal' on input line 39.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 3
-6.
+9.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 36.
+(Font)              `operators' in the math version `bold' on input line 39.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
-36.
+39.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
-input line 36.
+input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
- 36.
+ 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
-36.
+39.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 36.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 39.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
-input line 36.
+input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
-e 36.
+e 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 36.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 39.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1144,18 +1155,18 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
 
-Package hyperref Info: Link coloring OFF on input line 36.
+Package hyperref Info: Link coloring OFF on input line 39.
 (Θεμα.out) (Θεμα.out)
 \@outlinefile=\write4
 \openout4 = `Θεμα.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 
 
 (C:\Users\35796\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 
 
 (C:\Users\35796\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1164,24 +1175,24 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: ./images/Εθνικό_Μετσόβειο_Πολυτεχνείο.svg.png Graphic file (type bmp)
 <./images/Εθνικό_Μετσόβειο_Πολυτεχνείο.svg.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
 
-Overfull \hbox (12.37012pt too wide) in paragraph at lines 61--63
+Overfull \hbox (12.37012pt too wide) in paragraph at lines 64--66
 \TU/TimesNewRoman(0)/m/n/12 μας έδειξε κατά τη διάρκεια πραγματοποίησης της εν 
 λόγω εργασίας. Επίσης, θα θέλαμε να ευχαριστήσουμε
  []
@@ -1191,177 +1202,200 @@ Overfull \hbox (12.37012pt too wide) in paragraph at lines 61--63
 \openout5 = `Θεμα.toc'.
 
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
 
  []
 
+
+Overfull \hbox (1.7951pt too wide) in paragraph at lines 79--81
+\TU/TimesNewRoman(0)/m/n/12 παλινδρόμισης που πειραματιστήκαμε με μέσο τετραγων
+ικό σφάλμα ίσο με 4.1549. Για την παλινδρόμιση
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Overfull \hbox (27.71712pt too wide) in paragraph at lines 82--83
+\TU/TimesNewRoman(0)/m/n/12 Λαμβάνοντας υπόψη τα συμπεράσματα τα οποία αντλήσαμ
+ε, πραγματοποιήσαμε ανάλυση των αποτελεσμάτων
+ []
+
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 [6]
-Overfull \hbox (4.51677pt too wide) in paragraph at lines 141--142
-[]\TU/TimesNewRoman(0)/m/n/12 Η μεταβλητή Physical Activity εχει μια ιδιαιτερότ
-ητα. Παρόλο που περιλαμβάνει αριθμητικές τιμές(0-
- []
-
-
-Overfull \hbox (11.7199pt too wide) in paragraph at lines 143--145
-\TU/TimesNewRoman(0)/m/n/12 είναι απαραίτητο να εφαρμόζουμε κάποια μορφή κλιμάκ
-ωσης στα δεδομένα μας. Η κλιμάκωση εξασφαλίζει
- []
-
-
-Overfull \hbox (25.1429pt too wide) in paragraph at lines 143--145
-\TU/TimesNewRoman(0)/m/n/12 ότι τα χαρακτηριστικά με μεγάλο εύρος τιμών δεν θα 
-κυριαρχούν έναντι εκείνων με μικρό εύρος, αποτρέποντας
- []
-
-
-Overfull \hbox (1.4023pt too wide) in paragraph at lines 146--148
-\TU/TimesNewRoman(0)/m/n/12 Οι μέθοδοι κλιμάκωσης, όπως StandardScaler, MinMaxS
-caler και RobustScaler, λειτουργούν ανεξάρτητα
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--148
-
- []
-
-File: ./images/icon2.jpg Graphic file (type bmp)
-<./images/icon2.jpg>
-[7]
-Overfull \hbox (7.5132pt too wide) in paragraph at lines 156--159
-\TU/TimesNewRoman(0)/m/n/12 Studied και Sleep Hours αφού όπως μπορούμε να δούμε
- ακολουθούν κατά προσέγγιση κανονική κατανομή,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--159
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 202--203
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 205--206
-
- []
-
-
-Overfull \hbox (13.16295pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/12 φυσική σειρά(π.χ. ”Yes”,”No”). Επομένως τα κατηγορι
-κά χαρακτηριστικά ”Parental Involvement”,”Access
- []
-
-
-Overfull \hbox (26.33705pt too wide) in paragraph at lines 207--208
-\TU/TimesNewRoman(0)/m/n/12 to Resources”,”Motivation Level”,”Family Income”, ”
-Teacher Quality”,”Parental Education Level”, ”Distance
- []
-
-
-Overfull \hbox (20.38039pt too wide) in paragraph at lines 214--215
-\TU/TimesNewRoman(0)/m/n/12 προσπαθούμε να επιλέξουμε όσο το δυνατό λιγότερα μη
- σημαντικά χαρακτηριστικά έτσι ώστε να αποφύγουμε
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--215
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
-
- []
-
-
-Overfull \hbox (11.30617pt too wide) in paragraph at lines 226--227
-\TU/TimesNewRoman(0)/m/n/12 feature selection (SFS). Θα μπορούσαμε να κάνουμε τ
-ην διαδικασία αυτή και μέσω των πινάκων συσχέτισης
- []
-
-
-Overfull \hbox (37.61751pt too wide) in paragraph at lines 226--227
-\TU/TimesNewRoman(0)/m/n/12 επανάληψη, αφαιρείται ένα χαρακτηριστικό από το τρέ
-χον σύνολο και το μοντέλο εκπαιδεύεται χρησιμοποιώντας
- []
-
-
-Overfull \hbox (3.8968pt too wide) in paragraph at lines 226--227
-\TU/TimesNewRoman(0)/m/n/12 Για την καλύτερη κατανόηση της μεθόδου, παρουσιάζετ
-αι παρακάτω η γραφική παράσταση του βέλτιστου
- []
-
-
-Overfull \hbox (18.05812pt too wide) in paragraph at lines 226--227
-\TU/TimesNewRoman(0)/m/n/12 γραφική απεικονίζει τη σχέση μεταξύ των χαρακτηριστ
-ικών όπως αυτά επιλέχθηκαν μέσω της συγκεκριμένης
- []
-
-File: ./images/icon8.jpg Graphic file (type bmp)
-<./images/icon8.jpg>
-[10]
-Overfull \hbox (11.95947pt too wide) in paragraph at lines 238--239
+Overfull \hbox (11.95947pt too wide) in paragraph at lines 155--156
 \TU/TimesNewRoman(0)/m/n/12 Η μελέτη της συσχέτισης μεταξύ των χαρακτηριστικών 
 ενός dataset αποτελεί κρίσιμο βήμα στην κατανόηση
  []
 
 
-Overfull \hbox (9.64992pt too wide) in paragraph at lines 238--239
+Overfull \hbox (9.64992pt too wide) in paragraph at lines 155--156
 \TU/TimesNewRoman(0)/m/n/12 της συμπεριφοράς των δεδομένων και στη διαδικασία ε
 πιλογής των κατάλληλων μεταβλητών για πρόβλεψη
  []
 
 File: ./images/arithmetic_relation.png Graphic file (type bmp)
 <./images/arithmetic_relation.png>
-[11]
-Overfull \hbox (13.25539pt too wide) in paragraph at lines 247--248
-[]\TU/TimesNewRoman(0)/m/n/12 Στην παραπάνω εικόνα φαίνονται οι συσχετίσεις μετ
-αξύ αριθμητικών μεταβλητών (Pearson correlation).
- []
-
-
-Overfull \hbox (13.38704pt too wide) in paragraph at lines 251--252
-[]\TU/TimesNewRoman(0)/m/n/12 Οι Previous_Scores, οι Tutoring_Sessions και οι S
-leep_Hours έχουν χαμηλή έως αμελητέα συσχέτιση,
- []
-
+[7]
 File: ./images/categorical_relation.png Graphic file (type bmp)
 <./images/categorical_relation.png>
-[12]
+
+Overfull \hbox (2.91048pt too wide) in paragraph at lines 185--186
+[]\TU/TimesNewRoman(0)/m/n/12 Αυτό μπορεί να οδηγήσει σε πολυσυγγραμμικότητα (m
+ulticollinearity), που είναι σημαντικό να εντοπιστεί
+ []
+
 File: ./images/cat_arithmetic_rel.png Graphic file (type bmp)
 <./images/cat_arithmetic_rel.png>
- [13]
-Overfull \hbox (3.4554pt too wide) in paragraph at lines 287--288
+[8]
+Overfull \hbox (10.02002pt too wide) in paragraph at lines 199--200
+[]\TU/TimesNewRoman(0)/m/n/12 Ο Τελικός Βαθμός φαίνεται να σχετίζεται στατιστικ
+ά σημαντικά με πολλές από τις κατηγορικές μεταβλητές,
+ []
+
+[9]
+Overfull \hbox (4.51677pt too wide) in paragraph at lines 206--207
+[]\TU/TimesNewRoman(0)/m/n/12 Η μεταβλητή Physical Activity εχει μια ιδιαιτερότ
+ητα. Παρόλο που περιλαμβάνει αριθμητικές τιμές(0-
+ []
+
+
+Overfull \hbox (11.7199pt too wide) in paragraph at lines 208--210
+\TU/TimesNewRoman(0)/m/n/12 είναι απαραίτητο να εφαρμόζουμε κάποια μορφή κλιμάκ
+ωσης στα δεδομένα μας. Η κλιμάκωση εξασφαλίζει
+ []
+
+
+Overfull \hbox (25.1429pt too wide) in paragraph at lines 208--210
+\TU/TimesNewRoman(0)/m/n/12 ότι τα χαρακτηριστικά με μεγάλο εύρος τιμών δεν θα 
+κυριαρχούν έναντι εκείνων με μικρό εύρος, αποτρέποντας
+ []
+
+
+Overfull \hbox (1.4023pt too wide) in paragraph at lines 211--213
+\TU/TimesNewRoman(0)/m/n/12 Οι μέθοδοι κλιμάκωσης, όπως StandardScaler, MinMaxS
+caler και RobustScaler, λειτουργούν ανεξάρτητα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--213
+
+ []
+
+File: ./images/icon2.jpg Graphic file (type bmp)
+<./images/icon2.jpg>
+
+Overfull \hbox (7.5132pt too wide) in paragraph at lines 221--224
+\TU/TimesNewRoman(0)/m/n/12 Studied και Sleep Hours αφού όπως μπορούμε να δούμε
+ ακολουθούν κατά προσέγγιση κανονική κατανομή,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--224
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
+
+ []
+
+[11]
+Overfull \hbox (13.16295pt too wide) in paragraph at lines 272--273
+\TU/TimesNewRoman(0)/m/n/12 φυσική σειρά(π.χ. ”Yes”,”No”). Επομένως τα κατηγορι
+κά χαρακτηριστικά ”Parental Involvement”,”Access
+ []
+
+
+Overfull \hbox (26.33705pt too wide) in paragraph at lines 272--273
+\TU/TimesNewRoman(0)/m/n/12 to Resources”,”Motivation Level”,”Family Income”, ”
+Teacher Quality”,”Parental Education Level”, ”Distance
+ []
+
+
+Overfull \hbox (20.38039pt too wide) in paragraph at lines 279--281
+\TU/TimesNewRoman(0)/m/n/12 προσπαθούμε να επιλέξουμε όσο το δυνατό λιγότερα μη
+ σημαντικά χαρακτηριστικά έτσι ώστε να αποφύγουμε
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
+
+ []
+
+
+Overfull \hbox (11.30617pt too wide) in paragraph at lines 291--292
+\TU/TimesNewRoman(0)/m/n/12 feature selection (SFS). Θα μπορούσαμε να κάνουμε τ
+ην διαδικασία αυτή και μέσω των πινάκων συσχέτισης
+ []
+
+
+Overfull \hbox (37.61751pt too wide) in paragraph at lines 291--292
+\TU/TimesNewRoman(0)/m/n/12 επανάληψη, αφαιρείται ένα χαρακτηριστικό από το τρέ
+χον σύνολο και το μοντέλο εκπαιδεύεται χρησιμοποιώντας
+ []
+
+
+Overfull \hbox (3.8968pt too wide) in paragraph at lines 291--292
+\TU/TimesNewRoman(0)/m/n/12 Για την καλύτερη κατανόηση της μεθόδου, παρουσιάζετ
+αι παρακάτω η γραφική παράσταση του βέλτιστου
+ []
+
+
+Overfull \hbox (18.05812pt too wide) in paragraph at lines 291--292
+\TU/TimesNewRoman(0)/m/n/12 γραφική απεικονίζει τη σχέση μεταξύ των χαρακτηριστ
+ικών όπως αυτά επιλέχθηκαν μέσω της συγκεκριμένης
+ []
+
+[12]
+File: ./images/icon8.jpg Graphic file (type bmp)
+<./images/icon8.jpg>
+
+Overfull \hbox (3.4554pt too wide) in paragraph at lines 305--306
 \TU/TimesNewRoman(0)/m/n/12 Για κάθε ένα από τα μοντέλα παλινδρόμησης που ορίσα
 με παραπάνω, πραγματοποιήσαμε βελτιστοποίηση
  []
 
 
-Overfull \hbox (2.75049pt too wide) in paragraph at lines 287--288
+Overfull \hbox (2.75049pt too wide) in paragraph at lines 305--306
 \TU/TimesNewRoman(0)/m/n/12 υπερπαραμέτρων (hyperparameter tuning) χρησιμοποιών
 τας τη μέθοδο GridSearchCV. Η βελτιστοποίηση
  []
 
 
-Overfull \hbox (2.01855pt too wide) in paragraph at lines 287--288
+Overfull \hbox (2.01855pt too wide) in paragraph at lines 305--306
 \TU/TimesNewRoman(0)/m/n/12 συμπεριφορά του μοντέλου. Στη συνέχεια, εστιάσαμε σ
 τις παραμέτρους που ανέδειξε η πρώτη διαδικασία
  []
 
-[14]
-Overfull \hbox (6.86621pt too wide) in paragraph at lines 289--291
+[13]
+Overfull \hbox (6.86621pt too wide) in paragraph at lines 307--309
 \TU/TimesNewRoman(0)/m/n/12 fold ώς test set. Τέλος, επιλέγεται ο συνδυασμός υπ
 ερπαραμέτρων που βελτιστοποιεί τη μετρική απόδοσης. 
  []
@@ -1369,27 +1403,28 @@ Overfull \hbox (6.86621pt too wide) in paragraph at lines 289--291
 File: ./images/icon9.jpg Graphic file (type bmp)
 <./images/icon9.jpg>
 
-Overfull \hbox (25.08807pt too wide) in paragraph at lines 299--300
+Overfull \hbox (25.08807pt too wide) in paragraph at lines 317--318
 \TU/TimesNewRoman(0)/m/n/12 πραγματική τιμή. Με βάση την ανάλυση που κάναμε για
  τις υπερπαραμέτρους θέσαμε ρυθμό κανονικοποίησης
  []
 
 
-Overfull \hbox (25.24171pt too wide) in paragraph at lines 299--300
+Overfull \hbox (25.24171pt too wide) in paragraph at lines 317--318
 \TU/TimesNewRoman(0)/m/n/12 0.1.Για να εξετάσουμε περαιτέρω την απόδοση του μον
 τέλου μας υπολογίσαμε τον συντελεστή προσδιορισμού
  []
 
+[14]
 File: ./images/icon10.jpg Graphic file (type bmp)
 <./images/icon10.jpg>
-[15] [16]
-Overfull \hbox (21.97804pt too wide) in paragraph at lines 313--314
+ [15]
+Overfull \hbox (21.97804pt too wide) in paragraph at lines 331--332
 \TU/TimesNewRoman(0)/m/n/12 να μειώνεται κατά πολύ η υπολογιστική του πολυπλοκό
 τητα διατηρώντας ωστόσο την επιθυμητή προβλεπτική
  []
 
 
-Overfull \hbox (0.77068pt too wide) in paragraph at lines 323--324
+Overfull \hbox (0.77068pt too wide) in paragraph at lines 341--342
 \TU/TimesNewRoman(0)/m/n/12 Δεδομένου ενός συνόλου δεδομένων με $\OML/cmm/m/it/
 12 n$ \TU/TimesNewRoman(0)/m/n/12 παρατηρήσεις και $\OML/cmm/m/it/12 p$ \TU/Tim
 esNewRoman(0)/m/n/12 προβλεπτικές μεταβλητές, η παλινδρόμηση
@@ -1398,348 +1433,242 @@ esNewRoman(0)/m/n/12 προβλεπτικές μεταβλητές, η παλι�
 File: ./images/Lasso.png Graphic file (type bmp)
 <./images/Lasso.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+Underfull \hbox (badness 10000) in paragraph at lines 359--361
 
  []
 
-[17]
-Overfull \hbox (72.53743pt too wide) in paragraph at lines 344--345
+[16]
+Overfull \hbox (72.53743pt too wide) in paragraph at lines 362--363
 \TU/TimesNewRoman(0)/m/n/12 του μοντέλου αλλά απομωνόνοντας έναν κάθε φορά, δια
 τηρώντας όλους τους υπόλοιπους σταθερούς(επικεντρωνόμαστε
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
 
  []
 
 
-Overfull \hbox (5.64796pt too wide) in paragraph at lines 346--347
+Overfull \hbox (5.64796pt too wide) in paragraph at lines 364--366
 []\TU/TimesNewRoman(0)/m/n/12 Θα δούμε κάποιες στοιχειώδεις διαφορές ανάμεσα στ
 ον Coordinate Descent και στον Gradient descent: 
  []
 
 
-Overfull \hbox (26.85791pt too wide) in paragraph at lines 352--353
-[]\TU/TimesNewRoman(0)/b/n/12 Απαίτηση Κυρτότητας \TU/TimesNewRoman(0)/m/n/12 Ο
- Coordinate Descent εγγυάται σύγκλιση σε ολικό ελάχιστο με την προϋπόθεση
+Overfull \hbox (10.52754pt too wide) in paragraph at lines 366--368
+\TU/TimesNewRoman(0)/m/n/12 Ο Gradient descent χρησιμοποιεί την παράμετρο $\OML
+/cmm/m/it/12 ^^L$ \TU/TimesNewRoman(0)/m/n/12 που ορίζει πόσο μεγάλο θα είναι τ
+ο βήμα του αλγορίθμου
  []
 
-[18]
+
+Overfull \hbox (1.71321pt too wide) in paragraph at lines 368--370
+\TU/TimesNewRoman(0)/m/n/12 Στον Gradient descent δουλέύουμε με όλες τις διαστά
+σεις του προβλήματος, ενώ στον Coordinate Descent
+ []
+
+[17]
 File: ./images/Coordinate.png Graphic file (type bmp)
 <./images/Coordinate.png>
 
-Overfull \hbox (4.36963pt too wide) in paragraph at lines 405--406
+Overfull \hbox (4.36963pt too wide) in paragraph at lines 423--424
 \TU/TimesNewRoman(0)/m/n/12 Η κυρτότητα της συναρτησης κόστους προκύπτει από τη
 ν κυρτότητα του μέσου τετραγωνικού σφάλματος,
  []
 
 
-Overfull \hbox (2.43782pt too wide) in paragraph at lines 405--406
+Overfull \hbox (2.43782pt too wide) in paragraph at lines 423--424
 \TU/TimesNewRoman(0)/m/n/12 Όπως ήδη γνωρίζουμε το άθροισμα κυρτών συναρτήσεων 
 είναι κυρτή συνάρτηση, επομένως η συνάρτηση
  []
 
-[19]
-Overfull \hbox (3.49658pt too wide) in paragraph at lines 409--410
+[18]
+Overfull \hbox (3.49658pt too wide) in paragraph at lines 427--428
 \TU/TimesNewRoman(0)/m/n/12 Η βιβλιοθήκη scikit-learn αποτελεί ένα από τα πιο δ
 ημοφιλή εργαλεία σε γλώσσα Python για την ανάπτυξη
  []
 
 
-Overfull \hbox (24.84836pt too wide) in paragraph at lines 437--439
-[]\TU/TimesNewRoman(0)/b/n/12 fit_intercept\TU/TimesNewRoman(0)/m/n/12 : Ενεργο
-ποιεί ή απενεργοποιεί την εκτίμηση ανεξάρτητου όρου $\OML/cmm/m/it/12 ^^L[]$\TU
-/TimesNewRoman(0)/m/n/12 . Σε πολλές περιπτώσεις,
+Overfull \hbox (12.2912pt too wide) in paragraph at lines 465--466
+\TU/TimesNewRoman(0)/m/n/12 1,2,...,p. Αυτό σημαίνει ότι σε ορισμένες επαναλήψε
+ις μπορεί να ενημερωθεί ο ίδιος συντελεστής διαδοχικά,
  []
 
-
-Overfull \hbox (15.7723pt too wide) in paragraph at lines 440--442
-[]\TU/TimesNewRoman(0)/b/n/12 normalize ή προεπεξεργασία δεδομένων\TU/TimesNewR
-oman(0)/m/n/12 : Σε παλαιότερες εκδόσεις του scikit-learn, το $\OML/cmm/m/it/12
- normalize \OT1/cmr/m/n/12 =
- []
-
-
-Overfull \hbox (7.20367pt too wide) in paragraph at lines 447--448
-[]\TU/TimesNewRoman(0)/m/n/12 selection=’random’: Γίνεται τυχαία επιλογή συντελ
-εστή κάθε φορά. Σε κάθε βήμα, επιλέγουμε
- []
-
-
-Overfull \hbox (30.688pt too wide) in paragraph at lines 447--448
-\TU/TimesNewRoman(0)/m/n/12 τυχαία έναν από τους συντελεστές $\OML/cmm/m/it/12 
-^^L[]$ \TU/TimesNewRoman(0)/m/n/12 για ενημέρωση, αντί να ακολουθήσουμε μία προ
-συμφωνημένη
- []
-
-
-Overfull \hbox (15.70576pt too wide) in paragraph at lines 447--448
-\TU/TimesNewRoman(0)/m/n/12 συντελεστής διαδοχικά, ενώ άλλοι μπορεί να μείνουν 
-αμετάβλητοι για κάποια βήματα, αναλόγως
- []
-
-[20] [21]
-Underfull \hbox (badness 10000) in paragraph at lines 456--460
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 474--478
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--462
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--496
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
 
  []
 
 
-Overfull \hbox (4.14667pt too wide) in paragraph at lines 503--507
+Overfull \hbox (4.14667pt too wide) in paragraph at lines 521--525
 \TU/TimesNewRoman(0)/m/n/12 θετικά στον βαθμό του μαθητή. Συγκεκριμένα κατηγορι
 οποιείται σε τρία επίπεδα: ’Low’,’Medium’
  []
 
 
-Overfull \hbox (4.14667pt too wide) in paragraph at lines 518--522
+Overfull \hbox (4.14667pt too wide) in paragraph at lines 536--540
 \TU/TimesNewRoman(0)/m/n/12 θετικά στον βαθμό του μαθητή. Συγκεκριμένα κατηγορι
 οποιείται σε τρία επίπεδα: ’Low’,’Medium’
  []
 
-[22]
-Overfull \hbox (0.22804pt too wide) in paragraph at lines 523--528
+[20]
+Overfull \hbox (0.22804pt too wide) in paragraph at lines 541--546
 []\TU/TimesNewRoman(0)/b/n/12 Parental Education Level \TU/TimesNewRoman(0)/m/n
 /12 Το επίπεδο εκπαίδευσης του γονέα του μαθητή αναμένετε να συμβάλλει
  []
 
 
-Overfull \hbox (18.76581pt too wide) in paragraph at lines 546--549
+Overfull \hbox (18.76581pt too wide) in paragraph at lines 564--567
 \TU/TimesNewRoman(0)/m/n/12 να συμβάλλει θετικά στον βαθμό του μαθητή. Συγκεκρι
 μένα εάν ο μαθητής συμμετέχει σε εξωσχολικές
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 554--557
+Underfull \hbox (badness 10000) in paragraph at lines 572--575
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--564
+Underfull \hbox (badness 10000) in paragraph at lines 577--582
 
  []
 
 
-Overfull \hbox (13.01515pt too wide) in paragraph at lines 568--569
-[]\TU/TimesNewRoman(0)/m/n/12 Εάν το χαρακτηριστικό κλιμακώθηκε μέσω MinMax Sca
-ler(Συγκεκριμένα οι Attendance και Previous
+Overfull \hbox (4.55891pt too wide) in paragraph at lines 584--585
+\TU/TimesNewRoman(0)/m/n/12 μαθητή κατά coeff/std(feature) μονάδες, όπου coeff 
+η αντίστοιχη τιμή του coefficient του χαρακτηριστικού
  []
 
-[23]
-Overfull \hbox (6.18312pt too wide) in paragraph at lines 570--571
-\TU/TimesNewRoman(0)/m/n/12 του χαρακτηριστικού όπως φαίνετε στον πίνακα παραπά
-νω και IQR(feature) το ενδοτεταρτημοριακό
+[21]
+Overfull \hbox (11.22102pt too wide) in paragraph at lines 588--589
+\TU/TimesNewRoman(0)/m/n/12 μαθητή κατά coeff/IQR(feature) μονάδες, όπου coeff 
+η αντίστοιχη τιμή του coefficient του χαρακτηριστικού
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 573--574
+Underfull \hbox (badness 10000) in paragraph at lines 591--592
 
  []
 
 File: ./images/icon12.jpg Graphic file (type bmp)
 <./images/icon12.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 580--581
+Underfull \hbox (badness 10000) in paragraph at lines 598--599
 
  []
 
 
-Overfull \hbox (28.49042pt too wide) in paragraph at lines 583--585
+Overfull \hbox (28.49042pt too wide) in paragraph at lines 601--603
 \TU/TimesNewRoman(0)/m/n/12 προσδιορισμό του βαθμού του μαθητή. Συγκεκριμένα η 
 μεταβολή κατά μια μονάδα του χαρακτηριστικού
  []
 
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 597--599
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 615--617
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--638
+Underfull \hbox (badness 10000) in paragraph at lines 654--656
 
  []
 
 
-Overfull \hbox (4.78564pt too wide) in paragraph at lines 640--647
-\TU/TimesNewRoman(0)/m/n/12 Η παρουσία μαθησιακών δυσκολιών στους μαθητές είναι
- ένας από τους παράγοντες που επηρεάζουν
+Overfull \hbox (20.59016pt too wide) in paragraph at lines 658--665
+\TU/TimesNewRoman(0)/m/n/12 μαθητές, με αποτέλεσμα να πετυχαίνουν σίγουρα πιο υ
+ψηλές βαθμολογίες έναντι εκείνων που αντιμετωπίζουν
  []
 
 
-Overfull \hbox (20.25604pt too wide) in paragraph at lines 640--647
-\TU/TimesNewRoman(0)/m/n/12 παραπάνω στο γιατί. Αρχικά το χαρακτηριστικό αυτό υ
-ποδηλώνει την απουσία μαθησιακών δυσκολιών
+Overfull \hbox (4.2246pt too wide) in paragraph at lines 658--665
+\TU/TimesNewRoman(0)/m/n/12 των δυσκολιών, οι μαθητές μπορούν να αξιοποιήσουν π
+λήρως τις δυνατότητές τους. Ο ρόλος του σχολείου
+ []
+
+[23]
+Overfull \hbox (19.56282pt too wide) in paragraph at lines 666--676
+\TU/TimesNewRoman(0)/m/n/12 βοηθάει τους μαθητές να κατανοήσουν σε μεγαλύτερο β
+άθος, την ύλη που διδάσκονται λόγω της συνεχόμενης
  []
 
 
-Overfull \hbox (4.20917pt too wide) in paragraph at lines 640--647
-\TU/TimesNewRoman(0)/m/n/12 που αντιμετωπίζουν τέτοια προβληματα. Παρόλα αυτά δ
-εν αντικατοπτρίζει χαμηλότερη νοημοσύνη
+Overfull \hbox (1.43507pt too wide) in paragraph at lines 684--690
+\TU/TimesNewRoman(0)/m/n/12 διδασκαλία συνδέεται άμεσα με την εδραίωση ενθουσια
+σμού στους μαθητές και την καλύτερη κατανόηση
  []
 
 
-Overfull \hbox (11.47102pt too wide) in paragraph at lines 640--647
-\TU/TimesNewRoman(0)/m/n/12 έναντι των υπολοίπων μαθητών η ύπαρξη μαθησιακών δυ
-σκολιών, αλλά υποδηλώνει μια διαφορετική
+Overfull \hbox (5.42401pt too wide) in paragraph at lines 684--690
+\TU/TimesNewRoman(0)/m/n/12 της ύλης. Ένας καταρτισμένος και ευαισθητοποιημένος
+ εκπαιδευτικός μπορεί να απλοποιήσει πολύπλοκες
  []
 
 
-Overfull \hbox (8.2998pt too wide) in paragraph at lines 640--647
-\TU/TimesNewRoman(0)/m/n/12 προσέγγιση στη μάθηση. Με την κατάλληλη υποστήριξη,
- προσαρμοσμένες εκπαιδευτικές μεθόδους,
+Overfull \hbox (6.81087pt too wide) in paragraph at lines 684--690
+\TU/TimesNewRoman(0)/m/n/12 προσέγγιση προσαρμόζεται στις εκπαιδευτικές ανάγκες
+ κάθε τάξης, οι επιδόσεις βελτιώνονται ουσιαστικά.
  []
 
 
-Overfull \hbox (2.48747pt too wide) in paragraph at lines 640--647
-\TU/TimesNewRoman(0)/m/n/12 δυνατότητές τους. Ο ρόλος του σχολείου και των ειδι
-κών στη σωστή διάγνωση είναι αποφασιστικός
- []
-
-[25]
-Overfull \hbox (0.34113pt too wide) in paragraph at lines 648--658
-\TU/TimesNewRoman(0)/m/n/12 Η παρουσια των μαθητών στους χώρους της σχολικής τά
-ξης είναι υψίστης σημασίας, όπως άλλοστε
- []
-
-
-Overfull \hbox (21.76204pt too wide) in paragraph at lines 648--658
-\TU/TimesNewRoman(0)/m/n/12 παρακολούθηση βοηθάει τους μαθητές να κατανοήσουν σ
-ε μεγαλύτερο βάθος, την ύλη που διδάσκονται
- []
-
-
-Overfull \hbox (1.91048pt too wide) in paragraph at lines 659--665
-\TU/TimesNewRoman(0)/m/n/12 μέσω της δυνατότητας για επιπρόσθετη εκπαιδευτική υ
-ποστήριξη, όπως φροντιστηριακά μαθήματα
- []
-
-
-Overfull \hbox (14.43378pt too wide) in paragraph at lines 666--672
-\TU/TimesNewRoman(0)/m/n/12 Με υψηλό συντελεστή παρατηρήσαμε και τον παράγοντα 
-της ποιότητας των δασκάλων. Οι διδακτικές
- []
-
-
-Overfull \hbox (27.98486pt too wide) in paragraph at lines 666--672
-\TU/TimesNewRoman(0)/m/n/12 πρακτικές διαδραματίζου σημαντικό ρολο στη βελτίωση
- των επιδόσεων των μαθητών.Η αποτελεσματική
- []
-
-
-Overfull \hbox (31.89081pt too wide) in paragraph at lines 666--672
-\TU/TimesNewRoman(0)/m/n/12 κατανόηση της ύλης. Ένας καταρτισμένος και ευαισθητ
-οποιημένος εκπαιδευτικός μπορεί να απλοποιήσει
- []
-
-
-Overfull \hbox (14.05226pt too wide) in paragraph at lines 673--679
-\TU/TimesNewRoman(0)/m/n/12 Το Motivation_Level με συντελεστή 5.51 υποδυκνύει ό
-τι οι μαθητές με έντονα εσωτερικά ή εξωτερικά
- []
-
-
-Overfull \hbox (34.52948pt too wide) in paragraph at lines 673--679
+Overfull \hbox (4.52948pt too wide) in paragraph at lines 691--697
 \TU/TimesNewRoman(0)/m/n/12 κίνητρα σημειώνουν υψηλότερες επιδόσεις. Τα κίνητρα
  μαθητών ποικίλλουν με βάση την αυτοπεποίθηση,
  []
 
 
-Overfull \hbox (14.14276pt too wide) in paragraph at lines 673--679
-\TU/TimesNewRoman(0)/m/n/12 εικόνα. Αυτό επιβεβειώνεται και από την πηγή που αν
-αφέρεται στην υποεπίδοση και την αυτορύθμιση
+Overfull \hbox (29.54901pt too wide) in paragraph at lines 698--703
+\TU/TimesNewRoman(0)/m/n/12 πιθανότητα να επιτύχουν υψηλότερες βαθμολογίες. Έτσ
+ι επιβεβαιώνεται λοιπόν ο σχετικά υψηλός συντελεστής
  []
 
-[26]
-Overfull \hbox (5.95752pt too wide) in paragraph at lines 680--685
-\TU/TimesNewRoman(0)/m/n/12 Η φροντιστηριακή Υποστήριξη (Tutoring_Sessions) έχε
-ι επίσης σημαντικό συντελεστή στο μοντέλο
- []
-
-
-Overfull \hbox (3.81477pt too wide) in paragraph at lines 680--685
-\TU/TimesNewRoman(0)/m/n/12 λειτουργεί θετικά κυρίως σε μαθητές με ελλείψεις, κ
-αθώς οι μικρές ομάδες ή τα κατ’ ιδίαν μαθήματα
+[24]
+Overfull \hbox (20.74953pt too wide) in paragraph at lines 704--710
+\TU/TimesNewRoman(0)/m/n/12 Εδώ θα εξηγήσουμε τον αρνητικό συντελεστή που προέκ
+υψε από το μοντέλο μας και η τιμή του υποστηρίζεται
  []
 
 
-Overfull \hbox (10.6369pt too wide) in paragraph at lines 680--685
-\TU/TimesNewRoman(0)/m/n/12 ενισχύουν την εξατομικευμένη προσοχή από τον εκπαιδ
-ευτικό. Παρέχεται εξειδικευμένη προσέγγιση
+Overfull \hbox (1.84132pt too wide) in paragraph at lines 704--710
+\TU/TimesNewRoman(0)/m/n/12 που εστιάζουν στην προώθηση ψηφιακών εργαλείων και 
+η οικογένεια που διαθέτει σύνδεση στο διαδίκτυο
  []
 
 
-Overfull \hbox (5.39796pt too wide) in paragraph at lines 680--685
-\TU/TimesNewRoman(0)/m/n/12 στις ανάγκες και τις ικανότητες του μαθητή και καλύ
-πτονται τα απαραίτητα κενά με προσαρμοσμένο
+Overfull \hbox (38.7671pt too wide) in paragraph at lines 717--721
+\TU/TimesNewRoman(0)/m/n/12 οι εξωσχολικές δραστηριότητες ενισχύουν την αυτοπει
+θαρχία και λειτουργούν ως παράγοντας κοινωνικοποίησης.
  []
 
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 727--728
 
-Overfull \hbox (25.43977pt too wide) in paragraph at lines 686--692
-\TU/TimesNewRoman(0)/m/n/12 παρακολούθησης διαδυκτιακών μαθημάτων, αναζήτησης π
-ληροφοριών και συνεργασίας με συμμαθητές
  []
 
-
-Overfull \hbox (1.90167pt too wide) in paragraph at lines 693--699
-\TU/TimesNewRoman(0)/m/n/12 Η επιρροή των συνομήλικων διαδραματίζει σημαντικό ρ
-όλο, ιδιαίτερα ωστόσο η αρνητική επιρροή.
- []
-
-
-Overfull \hbox (6.58301pt too wide) in paragraph at lines 699--703
-\TU/TimesNewRoman(0)/m/n/12 και καλλιεργούν πολύτιμες δεξιότητες, όπως η ομαδικ
-ότητα και η ηγεσία. Παρότι απαιτούν επιπλέον
- []
-
-
-Overfull \hbox (9.87532pt too wide) in paragraph at lines 699--703
-\TU/TimesNewRoman(0)/m/n/12 χρόνο, οι εξωσχολικές δραστηριότητες ενισχύουν την 
-αυτοπειθαρχία και λειτουργούν ως παράγοντας
- []
-
-
-Overfull \hbox (19.58513pt too wide) in paragraph at lines 699--703
-\TU/TimesNewRoman(0)/m/n/12 κοινωνικοποίησης. Ο σωστός προγραμματισμός μπορεί ν
-α οδηγήσει σε συνολικά αυξημένες επιδόσεις.
- []
-
-
-Overfull \hbox (33.13234pt too wide) in paragraph at lines 699--703
-\TU/TimesNewRoman(0)/m/n/12 Επιπέλον γι αυτό πρατηρούμε ότι οι μαθητές οι οποίο
-ι είναι τυπικοί στις εξωσχολικές τους δραστηριότητες
- []
-
-[27] [28] (Θεμα.aux)
+[26] (Θεμα.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `Θεμα.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Θεμα.out':
-(rerunfilecheck)             Before: CBB456D12B1EF8237EC8AB395893F5E1;4032
-(rerunfilecheck)             After:  5FE6FFB95B78C67954CE091B72700CED;4013.
+Package rerunfilecheck Info: File `Θεμα.out' has not changed.
+(rerunfilecheck)             Checksum: 306028A29EE412DAD639A33171DF8F17;4013.
  ) 
 Here is how much of TeX's memory you used:
- 36915 strings out of 409566
- 883265 string characters out of 5772191
+ 37250 strings out of 409566
+ 889040 string characters out of 5772191
  1944842 words of memory out of 5000000
- 58499 multiletter control sequences out of 15000+600000
+ 58831 multiletter control sequences out of 15000+600000
  571427 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,14n,101p,1922b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,14n,101p,1922b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Θεμα.pdf (28 pages).
+Output written on Θεμα.pdf (26 pages).
