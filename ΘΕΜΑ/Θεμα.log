@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  28 MAR 2025 01:13
+This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.3) (preloaded format=xelatex 2024.3.16)  28 MAR 2025 01:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1659,8 +1659,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 727--728
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `Θεμα.out' has not changed.
-(rerunfilecheck)             Checksum: 306028A29EE412DAD639A33171DF8F17;4013.
+
+
+Package rerunfilecheck Warning: File `Θεμα.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Θεμα.out':
+(rerunfilecheck)             Before: 07DEE33B0422C58DE1BE680DC032DC42;4032
+(rerunfilecheck)             After:  306028A29EE412DAD639A33171DF8F17;4013.
  ) 
 Here is how much of TeX's memory you used:
  37250 strings out of 409566
