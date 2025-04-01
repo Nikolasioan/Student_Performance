@@ -27,6 +27,7 @@
 \usepackage{xunicode}
 \setlist[itemize]{left=0pt,label={},labelsep=0pt}
 
+
 \title{Πρόβλεψη επίδοσης μαθητών με χρήση \\
  μεθόδων μηχανικής μάθησης}
 
@@ -81,7 +82,7 @@
 Συγκεκριμένα στην παρούσα εργασία θα αναλύσουμε τον τρόπο με τον οποίο επεξεργαστήκαμε τα δεδομένα, θα παρουσιάσουμε σημαντικές πληροφορίες που αντλήσαμε απο αυτά, θα δείξουμε τον τρόπο με τον οποίο επιλέξαμε τα πιο σχετικά χαρακτηριστικά για την πρόβλεψη των βαθμών των μαθητών απο τα χαρακτηριστικά του συνόλου δεδομένων και τέλος θα αναφέρουμε τα διαφόρα μοντέλα μηχανικής μάθησης με τα οποία πειραματιστήκαμε. Για καθένα από τα μοντέλα αυτά πραγματοποιήθηκε διαδικασία βελτιστοποίησης υπερπαραμέτρων, με σκοπό τη βελτίωση της προβλεπτικής τους ικανότητας. Μετά απο συγκριτική αξιολόγηση η παλινδρόμιση Lasso αναδήχθηκε ώς η βέλτιστη απο όλα τα μοντέλα παλινδρόμισης που πειραματιστήκαμε με μέσο τετραγωνικό σφάλμα ίσο με 4.1549. Για την παλινδρόμιση Lasso θα γίνει εκτενής ανάλυση της θεωρίας.
 \\
 
-Η παρούσα εργασία αναδυκνύει τον κρίσιμο ρόλο διαφόρων παραγόντων, στην επίδοση του μαθητή. Λαμβάνοντας υπόψη τα συμπεράσματα τα οποία αντλήσαμε, πραγματοποιήσαμε ανάλυση των αποτελεσμάτων και σύγκριση αυτών με έρευνες.
+Η παρούσα εργασία αναδυκνύει τον κρίσιμο ρόλο διαφόρων παραγόντων, στην επίδοση του μαθητή. Λαμβάνοντας υπόψη τα συμπεράσματα τα οποία αντλήσαμε, πραγματοποιήσαμε ανάλυση των αποτελεσμάτων και σύγκριση αυτών με έρευνες. Ο πηγαίος κώδικας της εργασίας είναι διαθέσιμος στο Github, στον σύνδεσμο \url{https://github.com/Nikolasioan/Student_Performance}.\\
 \newpage
 
 \section*{Introduction}
@@ -91,7 +92,7 @@ Prediction of students academic performance can be a crucial element for the tim
 Specifically, in this study, we will analyze the way we processed the data, present important insights we gather from it, show the way we selected the most relevant features for predicting student grades from the dataset's attributes, and finally mention the various machine learning models we experimented with. For each of these models, a hyperparameter optimization process was performed to improve their predictive performance. After a comparative evaluation, Lasso regression emerged as the best among all the regression models we experimented with, achieving a mean squared error(MSE) of 4.1549. An extensive analysis of the theory behind Lasso regression will be provided.
 \\
 
-This study highlights the critical role of various factors in student performance. Taking into account the conclusions we gathered, we performed an analysis of the results and compared them with researches. 
+This study highlights the critical role of various factors in student performance. Taking into account the conclusions we gathered, we performed an analysis of the results and compared them with researches. The source code of the project is available on GitHub, at the link \url{https://github.com/Nikolasioan/Student_Performance}.
 \newpage
 \section{Ανάλυση της διαδικασίας επιλογής μοντέλου}
 \subsection{Ανάλυση του προβλήματος}
